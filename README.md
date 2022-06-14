@@ -1,9 +1,4 @@
-<h1 align="center">
-    <img 
-        src="https://user-images.githubusercontent.com/58376382/165360970-3dbb78c8-4a55-496e-8767-b4abc3fce310.jpg" 
-    >
-    </img>
-</h1>
+![image (6)](https://user-images.githubusercontent.com/69403840/173666093-d3bf98fe-10cc-4b60-bda0-17f637f44da6.png)
 
 # Indice
 - [Sobre](#-sobre)
