@@ -41,7 +41,7 @@ Siga os seguintes passos para executar os testes:
 
 Confirmação dos cenários rodando
 
-
+![image](https://user-images.githubusercontent.com/69403840/173665287-24ec4c90-cddf-400d-a9b0-8395c839f23a.png)
 
 
 
