@@ -41,6 +41,10 @@ Siga os seguintes passos para executar os testes:
 
 Confirmação dos cenários rodando
 
+Terminal:
+![image (4)](https://user-images.githubusercontent.com/69403840/173665418-cc5965c9-e152-46ca-bff5-09bf4f18023d.png)
+
+Report Builder:
 ![image](https://user-images.githubusercontent.com/69403840/173665287-24ec4c90-cddf-400d-a9b0-8395c839f23a.png)
 
 
