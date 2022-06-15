@@ -3,8 +3,8 @@
 # Indice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como executar o projeto](#como-executar-o-projeto)
-- [Relatorio](#relatorio)
+- [Como executar o projeto](#-como-executar-o-projeto)
+- [Relátorio](#-relátorio)
 
 ## 👀 Sobre
 
