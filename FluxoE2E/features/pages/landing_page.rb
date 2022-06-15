@@ -13,6 +13,13 @@ class LandingPage
     click_button 'Create an Account'
   end
 
+  def login(email, senha)
+    find(:xpath, "//input[@name='login[username]']").set email
+    find(:xpath, "//input[@name='login[password]']").set senha
+    first(:xpath, "//button[@class='action login primary']").click
+    sleep 12
+  end
+
   def fluxo_e2e
     sleep 5
     find('#search').set 'Tops'

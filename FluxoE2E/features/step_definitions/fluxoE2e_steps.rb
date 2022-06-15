@@ -4,10 +4,8 @@ require_relative '../pages/landing_page'
 
 Dado('que acesso a pagina de login e digito {string} e {string}') do |email, senha|
   visit 'https://magento.nublue.co.uk/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLm51Ymx1ZS5jby51ay8%2C/'
-  find(:xpath, "//input[@name='login[username]']").set email
-  find(:xpath, "//input[@name='login[password]']").set senha
-  first(:xpath, "//button[@class='action login primary']").click
-  sleep 12
+  @login = LandingPage.new
+  @login.login(email, senha)
 end
 
 Quando('autentico, busco o produto, adiciono o produto no carrinho, finalizo a compra e gero o pedido') do
